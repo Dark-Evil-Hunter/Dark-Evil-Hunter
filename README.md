@@ -1,7 +1,7 @@
 ✨ Hi, I’m Dark-Evil-Hunter 👾 | A Terminal-Loving Tech Adventurer
 # 🧠 Dark-Evil-Hunter | Terminal-Loving Tech Adventurer 👾
 
-> "They said *'stay out of the dark web'*... I made it my playground."  
+> "They said *'stay out of the dark web'*... I made it my playground."
 > 💻 Self-taught | Curiosity-fueled | Powered by Termux & strong coffee ☕
 
 ---
@@ -33,7 +33,6 @@
 
 ## 📊 GitHub Stats
 ![Dark-Evil-Hunter's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dark-Evil-Hunter&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dark-Evil-Hunter&layout=compact&theme=radical)
 
 ---
@@ -56,3 +55,4 @@
 > *But I'm building the tools that will define me.*
 
 > Made by [Dark-Evil-Hunter](https://github.com/Dark-Evil-Hunter) with 💀 and 🧠
+EOFgit status
