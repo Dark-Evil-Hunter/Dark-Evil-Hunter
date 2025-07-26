@@ -1,8 +1,11 @@
-✨ Hi, I’m Dark-Evil-Hunter 👾 | A Terminal-Loving Tech Adventurer
-# 🧠 Dark-Evil-Hunter | Terminal-Loving Tech Adventurer 👾
+# 👋 Hi, I'm Roman (a.k.a. Dark Evil Hunter) 👾  
+![GitHub followers](https://img.shields.io/github/followers/Dark-Evil-Hunter?style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=Dark-Evil-Hunter&color=green)
 
-> "They said *'stay out of the dark web'*... I made it my playground."
-> 💻 Self-taught | Curiosity-fueled | Powered by Termux & strong coffee ☕
+# 🧠 Dark-Evil-Hunter | Terminal-Loving Tech Adventurer
+
+> *"They said stay out of the dark web... I made it my playground."*  
+> 💻 Self-taught • Curiosity-fueled • Powered by Termux & strong coffee ☕
 
 ---
 
@@ -17,31 +20,48 @@
 ## 📚 Currently Learning
 - 🐍 Python (Basics + Scripting)
 - 🧪 Ethical Hacking & Cybersecurity
-- 💾 Git, GitHub & Open Source collaboration
-- 🔧 Bash/Shell Commands
+- 💾 Git, GitHub & Open Source Collaboration
+- 🔧 Bash/Shell Command Mastery
 
 ---
 
-## 🎯 Goals for 2025
-- [ ] Contribute to an open-source project
+## 🎯 2025 Goals
+- [ ] Contribute to open-source projects
 - [ ] Build my own CLI tool
-- [ ] Automate boring stuff like a boss
-- [ ] Get my first freelancing gig 💸
-- [ ] Become *Termux Boss* 😎
+- [ ] Automate boring stuff like a boss 🤖
+- [ ] Land my first freelancing gig 💸
+- [ ] Become a certified *Termux Boss* 😎
+
+---
+
+## 💻 About Me
+I'm a:
+- 👨‍💻 Ethical Hacker (in training)
+- 🔐 Cybersecurity & Dark Web Research Enthusiast
+- ⚡ Electronics & AI Explorer
+- 🛠️ Builder of open-source tools like `Dark-Recon`
+
+> *"Learning from the past, hacking for the future."*
+
+---
+
+## 🔧 Projects I'm Building
+- 🧠 [`Dark-Recon`](https://github.com/Dark-Evil-Hunter/Dark-Recon): Bash-based reconnaissance tool designed for Termux warriors.
+- 🕹️ More tools & experiments coming soon...
 
 ---
 
 ## 📊 GitHub Stats
-![Dark-Evil-Hunter's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dark-Evil-Hunter&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dark-Evil-Hunter&layout=compact&theme=radical)
+![Dark-Evil-Hunter's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dark-Evil-Hunter&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dark-Evil-Hunter&layout=compact&theme=radical)
 
 ---
 
 ## 🧩 Fun Fact
-> I don’t fear 404 errors — I embrace them.  
+> I don’t fear `404 errors` — I embrace them.  
 > Every bug I fix adds XP to my hacker soul 🧛‍♂️
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Dark-Evil-Hunter.visitor-badge)
+![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=Dark-Evil-Hunter.visitor-badge)
 
 ---
 
@@ -51,8 +71,8 @@
 ---
 
 ## 🔒 Signature
+
 > *I'm not a developer yet...*  
 > *But I'm building the tools that will define me.*
 
-> Made by [Dark-Evil-Hunter](https://github.com/Dark-Evil-Hunter) with 💀 and 🧠
-EOFgit status
+Made by [**Dark-Evil-Hunter**](https://github.com/Dark-Evil-Hunter) with 💀 and 🧠
